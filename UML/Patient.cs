@@ -1,8 +1,9 @@
+//Composition related to hospital
 public class Patient
 {
     public string Name;
+    //Encapsulation
     private int PersonalNumber;
-
 
     public void MakeAppointment()
     {
@@ -14,6 +15,7 @@ public class Patient
         Console.WriteLine($"{Name} with {PersonalNumber} canceled their appoitment!");
     }
 
+    //A method to reach patients personal number
     public int GetPersonalNumber()
     {
         return PersonalNumber;
@@ -21,6 +23,7 @@ public class Patient
 
 }
 
+//Subclass inherits from patient and is comosition related 
 public class Journal : Patient
 {
     private string Diagnosis;

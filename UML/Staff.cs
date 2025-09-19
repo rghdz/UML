@@ -1,3 +1,4 @@
+//Composition related to hospital
 public class Staff
 {
     public string Name;
@@ -9,7 +10,7 @@ public class Staff
     }
 }
 
-
+//Subclass that inherits from staff
 public class Doctor : Staff
 {
     public string Speciality;
@@ -26,6 +27,7 @@ public class Doctor : Staff
     }
 }
 
+//Subclass that inherits from staff
 public class Nurse : Staff
 {
     public string Departments;
@@ -40,3 +42,4 @@ public class Nurse : Staff
         Console.WriteLine($"Nurse {Name} ran {RunsTests} on the patient!");
     }
 }
+// Relation between doctor and nurse is association 
