@@ -6,7 +6,7 @@ public class Staff
 
     public void DescribeRegisterSituation()
     {
-        Console.WriteLine($"{Id} is now checked in!");
+        Console.WriteLine($"{Name} with {Id} id number is now checked in!");
     }
 }
 
