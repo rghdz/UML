@@ -5,6 +5,6 @@ public class Staff
 
     public void Register()
     {
-        Console.WriteLine($"{Id} checked in!");
+        Console.WriteLine($"{Id} is now checked in!");
     }
 }
