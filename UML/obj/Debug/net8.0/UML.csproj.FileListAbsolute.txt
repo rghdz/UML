@@ -1,0 +1,11 @@
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/bin/Debug/net8.0/UML
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/bin/Debug/net8.0/UML.dll
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/bin/Debug/net8.0/UML.pdb
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.AssemblyInfoInputs.cache
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.AssemblyInfo.cs
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.csproj.CoreCompileInputs.cache
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.sourcelink.json
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.dll
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/refint/UML.dll
+/Users/rianaghd/Desktop/systemutvecklare25/Inlämningar/Vecka3/OOP/UML/UML/obj/Debug/net8.0/UML.pdb

@@ -3,5 +3,10 @@ public class Hospital
 {
     public string Name;
     public string Location;
-    public class Departments;
+    public int Departments;
+
+    public void Describe()
+    {
+        Console.WriteLine($"This hospital is named {Name} and is located in {Location} and has {Departments} departmens available!");
+    }
 }
