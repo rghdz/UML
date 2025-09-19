@@ -4,7 +4,7 @@ public class Staff
     public string Name;
     public int Id;
 
-    public void Register()
+    public void DescribeRegisterSituation()
     {
         Console.WriteLine($"{Id} is now checked in!");
     }

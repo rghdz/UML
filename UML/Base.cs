@@ -7,6 +7,6 @@ public class Hospital
 
     public void Describe()
     {
-        Console.WriteLine($"This hospital is named {Name} and is located in {Location} and has {Departments} departmens available!");
+        Console.WriteLine($"This hospital is named {Name} and is located in {Location} and has {Departments} different departmens!");
     }
 }
