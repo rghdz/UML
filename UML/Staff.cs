@@ -25,6 +25,10 @@ public class Doctor : Staff
     {
         Console.WriteLine($"Doctor {Name} ordered {GivesMedecin}");
     }
+    public void ShowInfo()
+    {
+        Console.WriteLine($"Doctor {Name} works in {Departments} department!");
+    }
 }
 
 //Subclass that inherits from staff
@@ -34,12 +38,7 @@ public class Nurse : Staff
 
     public void HelpsDoctors()
     {
-        Console.WriteLine($"Nurse {Name} helped out doctor {Name} with a patient!");
-    }
-
-    public void RunsTests()
-    {
-        Console.WriteLine($"Nurse {Name} ran {RunsTests} on the patient!");
+        Console.WriteLine($"Nurse {Name} helped out doctor with a patient!");
     }
 }
 // Relation between doctor and nurse is association 

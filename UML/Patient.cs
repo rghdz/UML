@@ -2,6 +2,7 @@
 public class Patient
 {
     public string Name;
+
     //Encapsulation
     private int PersonalNumber;
 
@@ -27,8 +28,6 @@ public class Patient
         Console.WriteLine($"{Name} with {PersonalNumber} canceled their appoitment!");
     }
 
-   
-
 }
 
 //Subclass inherits from patient and is composition related 
@@ -45,13 +44,9 @@ public class Journal : Patient
         Treatment = treatment;
     }
 
-    public void GotDiagnoesd()
+    public void ShowJournal()
     {
-        Console.WriteLine($"The patient named {Name} with {GetPersonalNumber()}`s sickness is {GotDiagnoesd}!");
-
+        Console.WriteLine($"Patient {Name} with personal number {GetPersonalNumber()}, is diagnosed with {Diagnosis}, and needs to {Treatment}");
     }
-    public void GotTreatment()
-    {
-        Console.WriteLine($"The patient named {Name} got treated with {GotTreatment}");
-    }
+    
 }
